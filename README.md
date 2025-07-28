@@ -11,8 +11,8 @@
 
 - 🔍 I'm looking for help with **Big Data Projects**
 - 🧠 Ask me about **The technologies**
-- 📫 How to reach me: **your-email@example.com**
-- 📝 Know about my experiences: [Resume](https://your-link-here.com)
+- 📫 How to reach me: **sidhish.p@gmail.com**
+- 📝 Know about my experiences: [Resume](https://drive.google.com/file/d/1R7_8d6wWLAZLaZqDuC3zdJrFr2yyoUF2/view?usp=sharing)
 - 😄 Fun fact: **I am Unpredictable**
 
 ---
