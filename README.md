@@ -20,8 +20,8 @@
 ### 🔗 Connect with me:
 <p align="left">
   <a href="https://youtube.com" target="blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="30"/></a>
-  <a href="[https://instagram.com](https://www.instagram.com/sidhish_17?igsh=OTFoeWFzY3hlNmZ2)" target="blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="30"/></a>
-  <a href="[https://leetcode.com](https://leetcode.com/u/sidhishp/)" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30"/></a>
+  <a href="https://instagram.com" target="blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="30"/></a>
+  <a href="https://leetcode.com/u/sidhishp/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30"/></a>
 </p>
 
 ---
